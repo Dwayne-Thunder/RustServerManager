@@ -1,7 +1,5 @@
 # RustServerManager for Windows
-A tool designed to Install, Update, Auto start RUST servers!
-
-RustServerManager is a extremely light-weight, simplistic & efficient Wrapper for RUST servers hosted on Windows.
+Утилита для RUST серверов!
 
 Это нада:
   - Python 3.9+
